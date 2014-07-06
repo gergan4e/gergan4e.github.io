@@ -1,0 +1,20 @@
+body{
+	background-color: black;
+	font-family:"Tw Cen MT Condensed";
+	height: 600px;
+}
+
+.marLeft{
+	margin-left: 2px;
+}
+
+.mar {
+	margin: 50px;
+}
+
+.fix {
+	width : 50%;
+}
+
+#visual {
+}
